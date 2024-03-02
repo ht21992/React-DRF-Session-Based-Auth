@@ -53,6 +53,7 @@ npm run dev
 ```
 
 
-![image](https://github.com/ht21992/React-DRF-Session-Based-Auth/assets/47816410/0dcf93cd-3316-4486-9438-a74eea1e69d8)
+![image](https://github.com/ht21992/React-DRF-Session-Based-Auth/assets/47816410/a666163a-f43e-40bc-98ee-676a73fa9a82)
 
-![image](https://github.com/ht21992/React-DRF-Session-Based-Auth/assets/47816410/d04adce7-6995-421a-8982-8209e2bf5d60)
+
+![image](https://github.com/ht21992/React-DRF-Session-Based-Auth/assets/47816410/326a75be-8179-483e-a661-ce06159233f4)
